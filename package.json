@@ -1,0 +1,12 @@
+{
+  "name": "@cherdinand/readings",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Cherdinand/readings.git",
+  "author": "Cherdinand",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "librararies/*"
+  ]
+}
